@@ -3,6 +3,7 @@ Ex06-Linux IPC-Shared-memory
 ```
 Developed by: Oviya.N
 Register number:212223040140
+```
 # AIM:
 To Write a C program that illustrates two processes communicating using shared memory.
 
@@ -128,7 +129,9 @@ int main() {
 
 
 ## OUTPUT
+```
 ![image](https://github.com/Oviya49/Linux-IPC-Shared-memory/assets/153576803/8d16cbf5-2f36-459d-9829-31eda762ffa1)
+```
 ![image](https://github.com/Oviya49/Linux-IPC-Shared-memory/assets/153576803/96ecdb8c-70f9-4331-8d63-2272117d72f8)
 
 
